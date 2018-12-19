@@ -1,0 +1,2 @@
+# ddst
+My zsh theme
